@@ -7,7 +7,7 @@ This repository contains all the **C programs** I completed during my **first ye
 - **[📥 basicinputoutput.c](basicinputoutput.c)** – Programs covering basic input/output operations in C.
 - **[🔀 decisioncontrolstructures.c](decisioncontrolstructures.c)** – Programs using `if`, `switch`, and other decision-making statements.
 - **[🛠 functions.c](functions.c)** – Examples of modular programming and function usage.
-- **[🔁 iterativecontrolstructures.c](iterativecontrolstructures.c)** – Programs using loops (`for`, `while`, `do-while`).
+- **[🔁 iterativecontrolstructures.c](iterativecontrolstructure.c)** – Programs using loops (`for`, `while`, `do-while`).
 - **[🔁 iterativecontrolstructuresnestedloops.c](iterativecontrolstructuresnestedloops.c)** – Programs using nested loops.
 - **[📐 multidimensionalarrays.c](multidimensionalarrays.c)** – Programs using 2D arrays and matrices.
 - **[➕ operators.c](operators.c)** – Programs demonstrating arithmetic, relational, and logical operators.
