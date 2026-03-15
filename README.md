@@ -27,6 +27,23 @@ These programs demonstrate my understanding of key C programming concepts includ
 - Functions and modular design  
 - Array manipulation (1D & 2D)  
 - String handling  
-- Structures  
+- Structures
+
+## How to Run Programs
+
+1. Make sure you have a **C compiler** installed (like GCC or Code::Blocks).  
+2. Open a terminal/command prompt and navigate to the repository folder.  
+3. Compile a program using:
+
+## Run the compiled program:
+- On Windows:  
+  ```
+  filename.exe
+  ```
+- On Linux/Mac:  
+  ```
+  ./filename
+  ```
+5. Repeat for any other `.c` file you want to run.
 
 This repository is part of my **learning journey in C programming** and serves as a reference for my early coding projects. 🚀
